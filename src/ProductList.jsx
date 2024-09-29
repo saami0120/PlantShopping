@@ -276,7 +276,7 @@ const handlePlantsClick = (e) => {
                <a href="/" style={{textDecoration:'none'}}>
                         <div>
                     <h3 style={{color:'white'}}>Paradise Nursery</h3>
-                    <i style={{color:'white'}}>Where Green Meets Serenity</i>
+                    <i style={{color:'white', }}>Where Green Meets Serenity</i>
                     </div>
                     </a>
                 </div>
@@ -303,7 +303,7 @@ const handlePlantsClick = (e) => {
                     (category, index) => (
 
                         <div key={index} >
-                            <h1> <div> {category.category} </div> </h1>
+                            <h1 align = "center"> <div> {category.category} </div> </h1>
                             <div className={"product-list"} >
                                 { category.plants.map( (plant, index) => (
                                     <div key={index} className="product-card">

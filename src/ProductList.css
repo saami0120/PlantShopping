@@ -40,6 +40,12 @@ body {
 }
 
 /* Product Grid */
+h1 {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 48px;
+  color: #333333;
+  font-style: normal;
+}
 .product-grid {
     display:flex;
     flex-direction: column;
