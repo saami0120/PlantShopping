@@ -12,7 +12,7 @@ function AboutUs() {
         more sustainable lifestyle. From air-purifying plants to aromatic fragrant ones, we have something for every 
         plant enthusiast.
       </p>
-      <img align = "right" src="https://t3.ftcdn.net/jpg/09/30/89/24/360_F_930892485_Rxoi7H1M4h2oqMm80pU8GbB6ThnSvQ9z.jpg" alt="Planting trees"></img>
+      <img src="https://t3.ftcdn.net/jpg/09/30/89/24/360_F_930892485_Rxoi7H1M4h2oqMm80pU8GbB6ThnSvQ9z.jpg"  ALIGN= "left" HSPACE= "50" VSPACE= "50" alt="Planting trees"></img>
       {/* <p className="plant_logo_left"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
       <p className="about-us-content">
         Our team of experts is dedicated to ensuring that each plant meets our strict standards of quality and care. 
