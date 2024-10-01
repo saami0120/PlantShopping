@@ -1,14 +1,14 @@
-##**Paradise Nursery Shopping Cart Application**
+# **Paradise Nursery Shopping Cart Application**
 
 Welcome to the Paradise Nursery Shopping Cart Application! This project aims to create an engaging online shopping experience for plant enthusiasts, allowing users to browse and purchase a variety of house plants.
 
 
 
-##Project Overview
+# Project Overview
 
 The Paradise Nursery shopping cart application provides a seamless interface for users to explore and purchase plants. The application includes features like a landing page, product listings, and a shopping cart, all designed to enhance user experience.
 
-##Features:
+# Features:
 
 + Landing Page: A welcoming interface with a button linking to the product listing page.
 + Navigation Bar: Easy access to landing, product listing, and shopping cart pages.
@@ -22,7 +22,7 @@ The Paradise Nursery shopping cart application provides a seamless interface for
         		- A delete button for easy removal of items
 + Checkout Process: Includes "Continue Shopping" and "Checkout" buttons.
 
-##Screenshots of the application
+# Screenshots of the application
 
 ![Screenshot (516)](https://github.com/user-attachments/assets/3b3ab361-f2f9-41f5-82b6-0ad735cb96b8)
 ![Screenshot (517)](https://github.com/user-attachments/assets/19459f6f-783e-4b4e-9b74-6db70f5a21c5)
@@ -32,7 +32,7 @@ The Paradise Nursery shopping cart application provides a seamless interface for
 ![Screenshot (521)](https://github.com/user-attachments/assets/4d991596-e78d-4519-8f3f-aca347546abc)
 ![Screenshot (522)](https://github.com/user-attachments/assets/b24a72b8-cce1-4dc3-8b81-415a1f00955a)
 
-## Applicability
+# Applicability
 
 The Paradise Nursery Shopping Cart Application is designed specifically for the online retail sector, particularly for plant nurseries. It offers a practical solution for nurseries looking to transition to e-commerce by providing:
 
@@ -40,7 +40,7 @@ The Paradise Nursery Shopping Cart Application is designed specifically for the 
 - **Efficient Inventory Management**: Integrates product listings with inventory control, allowing nurseries to update availability in real time.
 - **Improved Customer Experience**: Facilitates an easy-to-navigate platform where customers can find, select, and purchase plants conveniently, encouraging higher sales.
 
-## Challenges Overcome
+# Challenges Overcome
 
 1. **Limited Accessibility**: Traditional nurseries may have physical limitations in terms of space and opening hours. This application allows customers to browse and shop for plants 24/7, expanding access beyond local clientele.
 
