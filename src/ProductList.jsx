@@ -17,6 +17,17 @@ function ProductList() {
     // keep track of the total number of items in the cart
     const totalItems = useSelector(selectorTotalItems);
 
+    const cartItems=useSelector(state => state.cart.items);
+    console.log(cartItems);
+    // setCart(cartItems);
+    useEffect(() => {
+        
+    }, []);
+    const alreadyInCart = (itemName) => {
+        return cartItems.some((item) => item.name === itemName);
+    }
+
+   
 
     const handleAddToCart = (product) => {
         dispatch(addItem(product)); // Dispatch the addItem action with the product as the payload
@@ -311,7 +322,7 @@ const handlePlantsClick = (e) => {
                                        <div className="product-title"> {plant.name} </div>
                                         <div className="product-description"> {plant.description} </div>
                                         <div className="product-price"> {plant.cost} </div>
-                                        <button className="product-button" onClick={() => handleAddToCart(plant)}>Add to Cart</button>
+                                        <button style={{backgroundColor:alreadyInCart(plant.name)?"gray":"#4CAF50"}} disabled={alreadyInCart(plant.name)? true:false} onClick={()=>handleAddToCart({name:plant.name,cost:plant.cost,image:plant.image})} className='product-button'>Add to Cart</button>
                                     </div>
                                 ))}
                             </div>
