@@ -1,7 +1,9 @@
-# **Paradise Nursery Shopping Cart Application**
+# **Paradise Nursery Shopping Cart Application** 
+
+[Deployment Link] (https://saami0120.github.io/PlantShopping/)
+
 
 Welcome to the Paradise Nursery Shopping Cart Application! This project aims to create an engaging online shopping experience for plant enthusiasts, allowing users to browse and purchase a variety of house plants.
-
 
 
 # Project Overview
